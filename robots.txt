@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jmwbiker.github.io/jmwinformatica/sitemap.xml
